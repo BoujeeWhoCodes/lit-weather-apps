@@ -22,7 +22,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #f9f7fe;
+  background-color: #FCDEC0;
   border: none;
   border-radius: 6px;
   width: 80%;
@@ -31,7 +31,7 @@ header {
 }
 
 .search-form-button {
-  background: #885df1;
+  background: #7D5A50;
   padding: 15px 30px;
   border: none;
   font-size: 16px;
